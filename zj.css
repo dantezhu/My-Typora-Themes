@@ -438,7 +438,7 @@ table tr td:last-child {
 
 #write em {
     padding: 0 2px 0 2px;
-    font-style: normal;
+    /* font-style: normal; */
     color: #ff3502;
     /* color: #595959;
     background: #F6EEFF; */

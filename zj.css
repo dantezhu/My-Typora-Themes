@@ -1,4 +1,4 @@
-@import 'zj/fonts.css';
+/* @import 'zj/fonts.css'; */
 :root {
     --side-bar-bg-color: #fff;
     --control-text-color: #777;
@@ -39,7 +39,8 @@ html {
 }
 
 body {
-    font-family: "Vollkorn", Palatino, Times;
+    font-family: arial,sans-serif;
+    /* font-family: "Vollkorn", Palatino, Times; */
     /* font-family: 'Source Han SerifCN', Georgia, Times, 'SimSun', serif!important; */
     color: var(--mid-13);
     -webkit-font-smoothing: antialiased;
@@ -192,6 +193,7 @@ h1 {
     color: var(--main-10);
 }
 
+/*
 h1:after {
     content: '';
     display: block;
@@ -200,6 +202,7 @@ h1:after {
     height: 2px;
     border-bottom: 2px solid var(--main-6);
 }
+*/
 
 h2 {
     margin: 2em auto 1.4em;
@@ -212,10 +215,12 @@ h2 {
     border-bottom: 1px solid var(--main-6);
 }
 
+/*
 h2::before {
     content: '# '!important;
     color: #f22f27;
 }
+*/
 
 h3 {
     font-size: 1.4em;
@@ -470,7 +475,8 @@ table tr td:last-child {
     padding: 3px 5px;
     line-height: 1.55rem;
     border-radius: 2px;
-    font-family: 'Roboto Mono', 'Source Sans Pro', 'Microsoft YaHei', '微软雅黑' !important;
+    /* font-family: 'Roboto Mono', 'Source Sans Pro', 'Microsoft YaHei', '微软雅黑' !important; */
+    font-family: 'JetBrains Mono',Menlo,Monaco,'DejaVu Sans Mono','Bitstream Vera Sans Mono',Consolas,monospace;
     font-size: 0.9rem;
     word-wrap: normal;
 }
@@ -500,7 +506,8 @@ table tr td:last-child {
 tt {
     padding: 2px 4px;
     border-radius: 2px;
-    font-family: 'Source Code Pro', Roboto Mono, Source Sans Pro, 'Microsoft YaHei', '微软雅黑' !important;
+    /* font-family: 'Source Code Pro', Roboto Mono, Source Sans Pro, 'Microsoft YaHei', '微软雅黑' !important; */
+    font-family: 'JetBrains Mono',Menlo,Monaco,'DejaVu Sans Mono','Bitstream Vera Sans Mono',Consolas,monospace;
     font-size: 0.92rem;
     color: #ff3502;
     background-color: #f8f5ec;
@@ -665,7 +672,8 @@ tt {
 
 .md-image>.md-meta {
     border-radius: 3px;
-    font-family: Consolas, 'Liberation Mono', Courier, monospace;
+    /* font-family: Consolas, 'Liberation Mono', Courier, monospace; */
+    font-family: 'JetBrains Mono',Menlo,Monaco,'DejaVu Sans Mono','Bitstream Vera Sans Mono',Consolas,monospace;
     padding: 2px 0 0 4px;
     font-size: 0.9em;
     color: inherit;
@@ -756,7 +764,7 @@ footer {
     body {
         /* font-family: 'Source Han SerifCN', Georgia, Times, 'SimSun', serif!important; */
         /* font-size: 16px!important; */
-        font-family: Times, 'SimSun', serif!important;
+        /* font-family: Times, 'SimSun', serif!important; */
         color: #000000!important;
     }
     p {

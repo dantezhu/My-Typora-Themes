@@ -402,7 +402,7 @@ table tr {
 
 table tr:nth-child(2n),
 thead {
-    background-color: #fafafa;
+    background-color: var(--mid-3);
 }
 
 table tr th {

@@ -758,27 +758,8 @@ footer {
     .typora-export * {
         -webkit-print-color-adjust: exact;
     }
-    html {
-        font-size: 16px!important;
-    }
     body {
-        /* font-family: 'Source Han SerifCN', Georgia, Times, 'SimSun', serif!important; */
-        /* font-size: 16px!important; */
-        /* font-family: Times, 'SimSun', serif!important; */
-        color: #000000!important;
-    }
-    p {
-        color: #000000!important;
-    }
-    a {
-        color: blue!important;
-        /* border-bottom: 1px solid blue!important; */
-    }
-    table,
-    pre {
-        page-break-inside: avoid;
-    }
-    pre {
-        word-wrap: break-word;
+        font-size: 11pt !important;
+        max-width: 100% !important;
     }
 }

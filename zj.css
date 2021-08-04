@@ -34,6 +34,10 @@
     --main-10: #590009;
 }
 
+* {
+    font-variant-ligatures: none;
+}
+
 html {
     font-size: 17px;
 }

@@ -762,8 +762,8 @@ footer {
     .typora-export * {
         -webkit-print-color-adjust: exact;
     }
-    body {
+
+    html{
         font-size: 11pt !important;
-        max-width: 100% !important;
     }
 }

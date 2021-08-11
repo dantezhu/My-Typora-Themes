@@ -449,7 +449,7 @@ table tr td:last-child {
 /* 数学公式变蓝 */
 
 [md-inline='inline_math'] {
-    color: blue;
+    /* color: blue; */
     font-size: 100%;
 }
 

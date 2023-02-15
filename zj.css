@@ -481,7 +481,7 @@ table tr td:last-child {
     line-height: 1.55rem;
     border-radius: 2px;
     /* font-family: 'Roboto Mono', 'Source Sans Pro', 'Microsoft YaHei', '微软雅黑' !important; */
-    font-family: 'JetBrains Mono',Menlo,'Liberation Mono',Consolas,monospace;
+    font-family: 'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace;
     font-size: 0.9rem;
     word-wrap: normal;
 }
@@ -512,7 +512,7 @@ tt {
     padding: 2px 4px;
     border-radius: 2px;
     /* font-family: 'Source Code Pro', Roboto Mono, Source Sans Pro, 'Microsoft YaHei', '微软雅黑' !important; */
-    font-family: 'JetBrains Mono',Menlo,'Liberation Mono',Consolas,monospace;
+    font-family: 'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace;
     font-size: 0.92rem;
     color: #ff3502;
     background-color: #f8f5ec;
@@ -678,7 +678,7 @@ tt {
 .md-image>.md-meta {
     border-radius: 3px;
     /* font-family: Consolas, 'Liberation Mono', Courier, monospace; */
-    font-family: 'JetBrains Mono',Menlo,Monaco,'DejaVu Sans Mono','Bitstream Vera Sans Mono',Consolas,monospace;
+    font-family: 'JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace;
     padding: 2px 0 0 4px;
     font-size: 0.9em;
     color: inherit;

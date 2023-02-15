@@ -43,7 +43,7 @@ html {
 }
 
 body {
-    font-family: arial,sans-serif;
+    font-family: Arial,sans-serif;
     /* font-family: "Vollkorn", Palatino, Times; */
     /* font-family: 'Source Han SerifCN', Georgia, Times, 'SimSun', serif!important; */
     color: var(--mid-13);
@@ -724,7 +724,7 @@ header,
 .context-menu,
 .megamenu-content,
 footer {
-    font-family: 'Segoe UI', 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .file-node-content:hover .file-node-icon,

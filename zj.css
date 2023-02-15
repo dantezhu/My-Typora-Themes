@@ -512,7 +512,7 @@ tt {
     padding: 2px 4px;
     border-radius: 2px;
     /* font-family: 'Source Code Pro', Roboto Mono, Source Sans Pro, 'Microsoft YaHei', '微软雅黑' !important; */
-    font-family: 'JetBrains Mono',Menlo,Monaco,'DejaVu Sans Mono','Bitstream Vera Sans Mono',Consolas,monospace;
+    font-family: 'JetBrains Mono',Menlo,'DejaVu Sans Mono','Bitstream Vera Sans Mono',Consolas,monospace;
     font-size: 0.92rem;
     color: #ff3502;
     background-color: #f8f5ec;
